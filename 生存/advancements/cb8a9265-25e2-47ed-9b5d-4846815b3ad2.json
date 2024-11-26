@@ -2902,5 +2902,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-11-27 03:00:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-11-27 03:00:01 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
