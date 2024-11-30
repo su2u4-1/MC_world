@@ -22,6 +22,7 @@
       "minecraft:forest": "2023-09-13 21:38:01 +0800",
       "minecraft:frozen_ocean": "2023-09-13 23:33:42 +0800",
       "minecraft:ocean": "2023-09-14 00:11:26 +0800",
+      "minecraft:snowy_beach": "2024-11-29 00:01:14 +0800",
       "minecraft:old_growth_birch_forest": "2023-09-14 00:08:35 +0800",
       "minecraft:meadow": "2023-09-13 21:46:27 +0800",
       "minecraft:plains": "2023-09-13 21:22:19 +0800"
@@ -2911,6 +2912,72 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-11-27 03:00:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:16:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:16:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:16:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:16:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:16:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:16:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-11-28 23:59:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:16:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:16:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-11-29 00:16:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 23:59:13 +0800"
     },
     "done": true
   },
