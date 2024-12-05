@@ -1,0 +1,38 @@
+
+#maxCount can be "max" or "default" or positive integer (1~2147483646)
+#The larger the number "priority", the higher the priority.
+[[items]]
+	tag = "forge:stackable"
+	priority = 0
+	maxCount = "default"
+
+[[items]]
+	name = "minecraft:potion"
+	priority = 1000
+	maxCount = "max"
+
+[[items]]
+	name = "minecraft:lingering_potion"
+	priority = 1000
+	maxCount = "max"
+
+[[items]]
+	name = "minecraft:splash_potion"
+	priority = 1000
+	maxCount = "max"
+
+[[items]]
+	name = "minecraft:mushroom_stew"
+	priority = 1000
+	maxCount = "max"
+
+[[items]]
+	name = "minecraft:enchanted_book"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:bread"
+	priority = 1000
+	maxCount = 64
+
