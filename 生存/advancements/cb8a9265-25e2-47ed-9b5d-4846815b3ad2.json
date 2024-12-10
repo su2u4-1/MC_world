@@ -595,6 +595,7 @@
       "poisonous_potato": "2024-03-12 00:59:21 +0800",
       "bread": "2023-09-13 21:45:55 +0800",
       "rotten_flesh": "2023-10-01 21:59:40 +0800",
+      "suspicious_stew": "2024-12-10 23:20:13 +0800",
       "cooked_chicken": "2024-11-23 17:36:57 +0800",
       "carrot": "2023-09-24 03:17:02 +0800"
     },
@@ -2999,6 +3000,18 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2024-12-03 21:26:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-10 23:14:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-10 23:20:13 +0800"
     },
     "done": true
   },
