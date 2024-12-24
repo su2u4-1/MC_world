@@ -36,3 +36,83 @@
 	priority = 1000
 	maxCount = 64
 
+[[items]]
+	name = "minecraft:blue_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:red_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:black_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:brown_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:cyan_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:gray_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:green_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:light_blue_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:light_gray_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:lime_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:magenta_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:orange_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:pink_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:purple_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:white_bed"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:yellow_bed"
+	priority = 1000
+	maxCount = 64
+
