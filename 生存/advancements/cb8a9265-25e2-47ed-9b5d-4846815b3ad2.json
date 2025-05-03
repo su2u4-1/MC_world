@@ -8,9 +8,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-30 17:12:56 +0800",
+      "minecraft:old_growth_pine_taiga": "2025-05-03 16:57:49 +0800",
       "minecraft:taiga": "2023-09-13 23:34:32 +0800",
       "minecraft:frozen_river": "2023-09-13 21:56:15 +0800",
       "minecraft:cherry_grove": "2023-09-14 00:02:44 +0800",
+      "minecraft:birch_forest": "2025-05-03 17:05:37 +0800",
       "minecraft:beach": "2023-09-13 23:34:17 +0800",
       "minecraft:dark_forest": "2023-09-14 00:10:39 +0800",
       "minecraft:river": "2023-09-13 21:42:18 +0800",
@@ -825,6 +827,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2023-10-02 00:37:05 +0800",
+      "minecraft:blaze": "2025-05-03 15:49:09 +0800",
       "minecraft:skeleton": "2023-09-30 15:44:27 +0800",
       "minecraft:ghast": "2024-11-22 01:50:36 +0800",
       "minecraft:spider": "2023-10-05 17:25:19 +0800",
@@ -832,6 +835,7 @@
       "minecraft:slime": "2024-11-22 02:06:12 +0800",
       "minecraft:zombified_piglin": "2024-11-23 12:13:05 +0800",
       "minecraft:witch": "2023-10-29 18:02:18 +0800",
+      "minecraft:wither_skeleton": "2025-05-03 15:48:12 +0800",
       "minecraft:cave_spider": "2025-01-20 18:24:30 +0800",
       "minecraft:piglin": "2024-11-21 22:37:27 +0800",
       "minecraft:silverfish": "2023-10-01 21:39:42 +0800",
@@ -3417,6 +3421,114 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-04-04 18:43:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-03 15:49:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-03 15:49:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-03 15:49:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-03 15:49:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-03 15:53:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-03 15:49:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-03 15:52:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-03 15:49:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-03 15:49:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-03 15:49:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-03 15:49:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-03 15:53:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-03 15:49:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-03 15:52:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-05-03 16:43:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-03 15:46:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-03 15:49:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-03 15:49:57 +0800"
     },
     "done": true
   },
