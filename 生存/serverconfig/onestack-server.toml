@@ -116,3 +116,103 @@
 	priority = 1000
 	maxCount = 64
 
+[[items]]
+	name = "minecraft:totem_of_undying"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:saddle"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:iron_horse_armor"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:diamond_horse_armor"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_13"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_cat"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_blocks"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_chirp"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_far"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_mall"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_mellohi"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_stal"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_strad"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_ward"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_11"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_wait"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_otherside"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_5"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_pigstep"
+	priority = 1000
+	maxCount = 64
+
+[[items]]
+	name = "minecraft:music_disc_relic"
+	priority = 1000
+	maxCount = 64
+
