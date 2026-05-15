@@ -216,3 +216,8 @@
 	priority = 1000
 	maxCount = 64
 
+[[items]]
+	name = "minecraft:golden_horse_armor"
+	priority = 1000
+	maxCount = 64
+
