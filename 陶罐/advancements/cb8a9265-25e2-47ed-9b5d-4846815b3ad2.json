@@ -1241,18 +1241,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2026-07-02 18:42:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2026-07-02 18:42:04 +0800"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2026-07-02 18:37:42 +0800"
@@ -1271,6 +1259,24 @@
     },
     "done": true
   },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2026-07-02 18:39:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2026-07-02 18:42:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2026-07-02 18:42:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2026-07-02 18:42:04 +0800"
@@ -1283,9 +1289,9 @@
     },
     "done": true
   },
-  "minecraft:nether/uneasy_alliance": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "killed_ghast": "2026-07-02 18:39:38 +0800"
+      "has_item_frame": "2026-07-04 12:24:48 +0800"
     },
     "done": true
   },
